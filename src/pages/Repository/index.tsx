@@ -1,8 +1,12 @@
 import React from 'react';
+import LogoImage from '../../assets/logo.svg';
 
 const Repository: React.FC = () => {
     return (
-        <h1>Repository adsd </h1>
+        <>
+            <h1>Repository </h1>
+            
+        </>
     )
 }
 
